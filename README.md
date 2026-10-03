@@ -6,7 +6,7 @@
 
 ## Overview
 
-**Nano-GPT** is an  character-level decoder-only language model built from scratch using PyTorch. Version 1.0 Introduces bug fixes, normalization and optimization to make the model run faster, and have a lower loss.
+**Femento-GPT** is an  character-level decoder-only language model built from scratch using PyTorch. Version 1.0 Introduces bug fixes, normalization and optimization to make the model run faster, and have a lower loss.
 `
 ### Key Technical Specs
 * **Tokenizer:** Custom character-level vocabulary (`vocab_size = 41`)
